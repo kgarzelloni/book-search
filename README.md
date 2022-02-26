@@ -25,7 +25,10 @@ SO THAT I can keep a list of books to purchase
 ![Screenshot](booksearch.png "deployed page screenshot of book search application")
 
 
-## Deployed page
+## Deployed page to Heroku
+https://git.heroku.com/kgarz-book-search.git
+
+
 
 ## GitHub repository
 https://github.com/kgarzelloni/book-search
