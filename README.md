@@ -26,8 +26,7 @@ SO THAT I can keep a list of books to purchase
 
 
 ## Deployed page to Heroku
-https://git.heroku.com/kgarz-book-search.git
-
+https://git.heroku.com/sheltered-waters-10807.git
 
 
 ## GitHub repository
